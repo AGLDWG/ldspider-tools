@@ -1,4 +1,4 @@
-Simple tools for using with the LDSpider
+Simple tools for using in conjunction with the LDSpider
 
 * stripURL.sh - Downloads a list of .au domains and sorts them into a text file
 
